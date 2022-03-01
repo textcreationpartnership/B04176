@@ -1,0 +1,304 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking-glass for ladies, or, A mirrour for married-women. Lively setting forth the rare constancy, chastity, patience, and purity of Penelope the wife of Ulisses, one of the Grecian generals, who during the ten years absence of her husband at the siege of Troy, was solicited, and importun'd, by numbers of emminent suitors; who attempted her chastity, and endeavoured to violate her honour, but never could prevail. She addicted her self wholly to charity, and good housewifery, until her husbands return. Which may serve as a pattern for all ladies, gentlewomen, and others to imitate her vertuous example. Tune of, Queen Dido: or, Troy town. With allowance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674-1679?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04176</idno>
+            <idno type="STC">Wing L3020</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[158]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[284]</idno>
+            <idno type="EEBO-CITATION">99887199</idno>
+            <idno type="PROQUEST">ocm99887199</idno>
+            <idno type="VID">183435</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04176)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183435)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[158]; A5:2[226])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking-glass for ladies, or, A mirrour for married-women. Lively setting forth the rare constancy, chastity, patience, and purity of Penelope the wife of Ulisses, one of the Grecian generals, who during the ten years absence of her husband at the siege of Troy, was solicited, and importun'd, by numbers of emminent suitors; who attempted her chastity, and endeavoured to violate her honour, but never could prevail. She addicted her self wholly to charity, and good housewifery, until her husbands return. Which may serve as a pattern for all ladies, gentlewomen, and others to imitate her vertuous example. Tune of, Queen Dido: or, Troy town. With allowance.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T, [sic] Vere, J. Wright, and J. Clarke.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1674-1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Verse: "When Greeks, and Trojans, fell at strife ..."</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="284" facs="tcp:183435:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <head>A Looking-Glaſs for Ladies, OR, A mirrour for married-women.</head>
+            <argument>
+               <p>Lively ſetting forth the rare Conſtancy, Chaſtity, Patience, and purity of <hi>Penelope</hi> the Wife of <hi>
+                     <g ref="char:V">Ʋ</g>liſſes,</hi> one of the <hi>Grecian</hi> Generals, who during the Ten Years abſence of her Husband at the ſiege of <hi>Troy,</hi> was ſolicited, and importun'd, by numbers of Emminent Suitors; who attempted her chaſtity, and endeavoured to violate her Honour, but never could prevail. She addicted her ſelf wholly to Charity, and good Houſewifery, until her Husbands return. Which may ſerve as a Pattern for all Ladies, Gentlewomen, and others to Imitate her vertuous Example.</p>
+            </argument>
+            <argument>
+               <p>With Allowance.</p>
+            </argument>
+            <opener>Tune of, <hi>Queen Dido:</hi> or, <hi>Troy Town.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>WHen <hi>Greeks,</hi> and <hi>Trojans,</hi> fell at ſtrife,</l>
+               <l>and Lords in Armour bright were ſeen,</l>
+               <l>When many a Gallant loſt his life,</l>
+               <l>about fair <hi>Hellen,</hi> beauties queen:</l>
+               <l>
+                  <hi>Uliſſes,</hi> General ſo free,</l>
+               <l>Did leave his dear <hi>Penelope.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When ſhe this woful news did hear,</l>
+               <l>that he would to the Warrs of <hi>Troy,</hi>
+               </l>
+               <l>For grief ſhe ſhed full many a tear,</l>
+               <l>at parting from her onely joy;</l>
+               <l>Her Ladies all about her came,</l>
+               <l>To comfort up this Grecian Dame.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Uliſſes</hi> with a heavy heart,</l>
+               <l>unto her then did mildly ſay,</l>
+               <l>The time is come that we muſt part,</l>
+               <l>my honour calls me hence away;</l>
+               <l>Yet in my abſence deareſt be,</l>
+               <l>My conſtant Wife <hi>Penelope.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Let me no longer live ſhe ſaid,</l>
+               <l>then to my Lord I true remain,</l>
+               <l>My Honour ſhall not be betraid,</l>
+               <l>until I ſee my love again:</l>
+               <l>For ever I will conſtant prove,</l>
+               <l>As is the harmleſs Turtle-Dove.</l>
+            </lg>
+            <lg>
+               <l>Thus did they part with heavy cheer,</l>
+               <l>And to the Ships his way he took;</l>
+               <l>Her tender eyes dropt many a tear,</l>
+               <l>ſtill caſting many a longing look:</l>
+               <l>She ſaw him on the Surges glide,</l>
+               <l>And unto <hi>Neptune</hi> thus ſhe cry'd.</l>
+            </lg>
+            <lg>
+               <l>Thou God, whoſe power is in the Deep,</l>
+               <l>and ruleſt in the Ocean-Main;</l>
+               <l>My loving Lord in ſafety keep,</l>
+               <l>till he return to me again:</l>
+               <l>That I his perſon may behold,</l>
+               <l>Which I eſteem far more then Gold.</l>
+            </lg>
+            <p>
+               <pb n="285" facs="tcp:183435:2"/>
+               <!-- PDF PAGE 18 -->
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>THen ſtraight the ſhips with nimble ſayls,</l>
+               <l>were all convey'd out of her ſight,</l>
+               <l>Her cruel fate ſhe then bewails,</l>
+               <l>ſince ſhe had loſt her hearts delight:</l>
+               <l>Now ſhall my practice be, quoth ſhe,</l>
+               <l>True vertue and humility.</l>
+            </lg>
+            <lg>
+               <l>My patience I will put in ure,</l>
+               <l>and Charity I will extend,</l>
+               <l>Since for my woe, there is no cure,</l>
+               <l>the helpleſs now I will befriend:</l>
+               <l>The Widdow and the Fatherleſs,</l>
+               <l>I will relieve, when in diſtreſs.</l>
+            </lg>
+            <lg>
+               <l>Thus ſhe continued year by year,</l>
+               <l>in doing good to every one;</l>
+               <l>Her fame was noiſed every where,</l>
+               <l>to young and old the ſame was known:</l>
+               <l>No company that ſhe would mind,</l>
+               <l>Who were to vanity inclin'd.</l>
+            </lg>
+            <lg>
+               <l>Mean while <hi>Uliſſes</hi> fought for Fame,</l>
+               <l>'Mongſt <hi>Trojans</hi> hazarding his Life,</l>
+               <l>Young Gallants hearing of her Name,</l>
+               <l>came flocking for to tempt his Wife,</l>
+               <l>For ſhe was lovely, young, and fair,</l>
+               <l>No Lady might with her compare.</l>
+            </lg>
+            <lg>
+               <l>With coſtly gifts, and Iewels fine,</l>
+               <l>they did endeavour her to win,</l>
+               <l>With Banquets, and the choiceſt Wine,</l>
+               <l>for to allure her unto Sin:</l>
+               <l>Moſt perſons were of high degree,</l>
+               <l>Who courted fair <hi>Penelope.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>With modeſty and comely grace,</l>
+               <l>their Wanton Suits ſhe did deny;</l>
+               <l>No tempting charms could ere deface</l>
+               <l>her deareſt Husbands memory;</l>
+               <l>But conſtant ſhe did ſtill remain,</l>
+               <l>Hopeing to ſee him once again.</l>
+            </lg>
+            <lg>
+               <l>Her Book her daily practice was,</l>
+               <l>and that ſhe often did peruſe,</l>
+               <l>She ſeldom looked in her glaſs,</l>
+               <l>Powder, and Paint, ſhe did not uſe,</l>
+               <l>I wiſh all Ladies were as free</l>
+               <l>From Pride, as was <hi>Penelope.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>She in her Needle took delight,</l>
+               <l>and likewiſe in her Spinning-wheel,</l>
+               <l>Her Maids about her, all, ſhe taught,</l>
+               <l>to uſe the Diſtaff, and the Reel:</l>
+               <l>The Spiders that on Rafters Twine,</l>
+               <l>Scarce Spins a thread more pure and fine.</l>
+            </lg>
+            <lg>
+               <l>Sometimes ſhe would bewail the loſs</l>
+               <l>and abſence of her deareſt love;</l>
+               <l>Sometimes ſhe thought the Seas to croſs,</l>
+               <l>her fortune on the Waves to prove:</l>
+               <l>I fear my Lord is ſlain, quoth ſhe,</l>
+               <l>He ſtays ſo from <hi>Penelope.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>At length the Ten years Siege of <hi>Troy</hi>
+               </l>
+               <l>did end, the flames the City burn'd,</l>
+               <l>Which to the <hi>Grecians</hi> was great joy,</l>
+               <l>to ſee the Towers to aſhes t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rn'd</l>
+               <l>Then came <hi>Uliſſes</hi> home to ſee</l>
+               <l>His conſtant Dear, <hi>Penelope.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then blame her not if ſhe was glad,</l>
+               <l>when ſhe her Lord again had ſeen:</l>
+               <l>O welcome home, my dear, ſhe ſaid,</l>
+               <l>a long time abſent you have been:</l>
+               <l>The wars ſhall never me deprive,</l>
+               <l>Of thee again whilſt I'me alive.</l>
+            </lg>
+            <lg>
+               <l>Young Ladies may example take,</l>
+               <l>and by this Leſſon they may learn,</l>
+               <l>And keep this pattern for her ſake,</l>
+               <l>'twixt vice and virtue to diſcern:</l>
+               <l>And let all women ſtrive to be,</l>
+               <l>As conſtant as <hi>Penelope.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>F. Coles, T, Vere, J. Wright,</hi> and <hi>J. Clarke.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
